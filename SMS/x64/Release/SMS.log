@@ -1,0 +1,3 @@
+﻿  SMS.cpp
+D:\SMS\SMS Solution\SMS\SMS.cpp(309,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\SMS\SMS Solution\SMS\SMS.cpp(434,14): error C3863: array type 'char [800]' is not assignable
